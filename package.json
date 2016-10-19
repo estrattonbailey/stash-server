@@ -1,0 +1,23 @@
+{
+  "name": "stash-server",
+  "version": "0.0.1",
+  "description": "A little server for stash",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/estrattonbailey/stash-server.git"
+  },
+  "author": "estrattonbailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estrattonbailey/stash-server/issues"
+  },
+  "homepage": "https://github.com/estrattonbailey/stash-server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
